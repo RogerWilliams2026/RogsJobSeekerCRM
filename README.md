@@ -3,6 +3,8 @@
 Fully featured system for tracking job applications with added features!
 Created initially using Access 2012 (!) but now uses Access 2021 
 
+Having completed it then translated into other languages and different forms some with more features some purposely with less (for operational reasons).
+
 
 **Features:**
 
@@ -18,8 +20,3 @@ I needed a RAD solution to get the information and store it and report on it and
 the fastest solution!
 
 
-**Technical**
-
-- copy contents of folder: **RogsJobSeekerCRM** to drive C
-- the Documents folder has examples of files to use with mailmerge
-- JobCRM-Objects-Exported-As-Text contains all the forms/reports/modules as plain text files!
